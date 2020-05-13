@@ -2,7 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 ![alt text](https://raw.githubusercontent.com/Uriel281198/Pixaby_ApiFetch/master/screen1.png)
+### `Paginacion`
 
+![alt_text](https://raw.githubusercontent.com/Uriel281198/Pixaby_ApiFetch/master/screen2.png)
 
 ### `npm start`
 
