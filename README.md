@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+![alt text](https://raw.githubusercontent.com/Uriel281198/Pixaby_ApiFetch/master/screen1.png)
 
-![https://raw.githubusercontent.com/Uriel281198/Pixaby_ApiFetch/master/screen1.png]
 
 ### `npm start`
 
