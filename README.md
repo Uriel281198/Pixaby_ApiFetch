@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+![https://raw.githubusercontent.com/Uriel281198/Pixaby_ApiFetch/master/screen1.png]
 
 ### `npm start`
 
