@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.lead{
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.jumbotron{
+  margin-top: 40px;
+  background-color:cadetblue;
+  color: white;
+}
+.imagen{
+  margin-bottom: 50px;
+}
+.imagen-top{
+  color: red;
+  height:150px;
+}
+
+.card{
+  background-color:  beige;
+}
+
+.card-bd{
+  padding: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 0;
+}
+
+.pagination{
+  margin:50px;
+}
